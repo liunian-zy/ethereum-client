@@ -1,10 +1,14 @@
 {
-    "name": "myxtype/ethereum-client",
+    "name": "liunian/ethereum-client",
     "description": "ethereum rpc client, offline sign, php",
     "authors": [
         {
             "name": "赵波",
             "email": "792598794@qq.com"
+        },
+        {
+            "name":"liunian",
+            "email":"a@liunian.io"
         }
     ],
     "require": {
